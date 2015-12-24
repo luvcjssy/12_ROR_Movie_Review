@@ -26,3 +26,14 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+==========================================
+
+Built a Movie Rating / Review application. The key features for this weeks app are 1) Ratings: A user can rate a movie on a 1 - 5 star system, and 2) Search: A user or visitor has the ability to search for a particular movie.
+
+List gem used:
+- gem 'devise'
+- gem 'paperclip'
+- gem 'bootstrap-sass'
+- gem 'coffee-script-source'
+- gem 'searchkick'
